@@ -10,6 +10,12 @@ This document will introduce you to our general software development practices.
 * Use Keybase for everything possible
 * Commit often
 
+## Specific Guides ##
+
+* [Front-end](frontend.md)
+* API - **TODO**
+* Backend - **TODO**
+
 ## Workflow ##
 
 First off, you might have noticed we're using Keybase. Keybase is our primary communications and file-sharing platform because it is end-to-end encrypted. Oh, and it's free.
