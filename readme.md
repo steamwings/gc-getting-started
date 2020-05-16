@@ -1,11 +1,5 @@
 # Welcome to the Green Curtain Development Team! #
 
-You can read this document with [VSCode](https://code.visualstudio.com/), which you're going to need anyway.
-
-![View Markdown with VSCode](vscode-markdown.png)
-
-This document will introduce you to our general software development practices.
-
 ## Principles ##
 1. **Security is everyone's responsibility.** (see [Security Practices](#security-practices))
 2. Do better than "industry standard".
@@ -26,7 +20,17 @@ You need accounts for
 - **[Github](https://github.com)** - It's convenient that the tools we use are also based on GitHub (mainly [NativeScript](https://github.com/NativeScript)).
 - **[Azure DevOps](https://dev.azure.com/greencurtain/)** - Includes all our CI/CD including builds, automated testing, and deployments.
 
-### Tasks ###
+### VSCode ###
+
+You'll want [VSCode](https://code.visualstudio.com/). First off, you can use it to render this [Markdown](https://daringfireball.net/projects/markdown/syntax) document.
+
+![View Markdown with VSCode](images/vscode-markdown.png)
+
+It's got an abundance of cool features like [workspaces](https://code.visualstudio.com/docs/editor/multi-root-workspaces), which allow you to peruse multiple repos at once.
+
+![GCC workspace](images/gc-workspace.png)
+
+#### Tasks ####
 <a name="tasks"></a>
 VSCode offers [tasks](https://code.visualstudio.com/docs/editor/tasks) which can be configured to run when a workspace folder is open (see [Run behavior](https://code.visualstudio.com/docs/editor/tasks#_run-behavior)). See a specific dev guide for more info.
 
