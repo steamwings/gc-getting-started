@@ -7,4 +7,4 @@ Our API is essentially a number of Azure Functions and an Azure API Gateway to m
 - **Postman collections** for testing. (Ask someone to share these with you.)
 
 You may or may not need
-- **[Azure portal](portal.azure.com) access**
+- **[Azure portal](https://portal.azure.com) access**
